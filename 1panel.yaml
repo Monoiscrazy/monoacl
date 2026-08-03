@@ -1,0 +1,27 @@
+payload:
+  - DST-PORT,22
+  - DOMAIN-KEYWORD,kr.sadiufbi.ccwu.cc
+  - DOMAIN-KEYWORD,us.sadiufbi.ccwu.cc
+  - DOMAIN-KEYWORD,kraa.cc.cd
+  - DOMAIN-KEYWORD,usaa.cc.cd
+  - DST-PORT,60225     #a2面板
+  - DST-PORT,20506     #a3面板
+  - DST-PORT,65133     #i1面板
+  - DST-PORT,51113     #i2面板
+  - DST-PORT,65039     #west
+  - DST-PORT,61001     #nk
+  #- DST-PORT,30501     #ao
+  - DST-PORT,30001     #xin
+  - DST-PORT,31000     #dj
+  - DST-PORT,30801     #ao 1panel
+  - DST-PORT,30803     #a0 cms
+  - DST-PORT,49507     #a3 1panel
+  - DST-PORT,56481     #a3 cms
+  - DST-PORT,35165     #a3 iptv
+  - DST-PORT,30802     #ao iptv
+  #- DST-PORT,     #
+  #- DST-PORT,     #
+  #- DST-PORT,     #
+  #- DST-PORT,     #
+  #- DST-PORT,     #
+  #- DST-PORT,     #
